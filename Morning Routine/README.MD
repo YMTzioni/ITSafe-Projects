@@ -5,8 +5,8 @@ git clone https://github.com/YMTzioni/ITSafe-Projects.git
 
 cd ITSafe-Projects
 
-cd Morning-Routine
+cd Morning Routine
 
 pip install -r requirements.txt
 
-python3 main.py
+python3 Main.py
